@@ -36,7 +36,7 @@ seaborn==0.8.1
 six==1.11.0
 subprocess32==3.2.7
 tabulate==0.8.2
-tensorflow==1.4.1
+tensorflow==1.15.0
 tensorflow-tensorboard==0.4.0
 tqdm==4.19.5
 urllib3==1.22
